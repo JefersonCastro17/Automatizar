@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: com.Mercapleno.runners.EliminarProductoRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.14 s <<< FAILURE! -- in com.Mercapleno.runners.EliminarProductoRunner
+Eliminar Producto del Carrito en Mercapleno.Eliminar un producto agregado al carrito -- Time elapsed: 12.90 s <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: "Tu carrito esta vacio"
+     but: was "Tu carrito esta vacio\nExplorar productos"
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:38)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:32)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:397)
+	at com.Mercapleno.stepdefinitions.CarritoStepDefinitions.verificarCarritoVacio(CarritoStepDefinitions.java:70)
+	at ✽.el usuario deberia ver que su carrito esta vacio con el mensaje "Tu carrito esta vacio"(file:///C:/Users/jefer/OneDrive/Escritorio/mercaplen_final_version/mercapleno-automation/src/test/resources/features/eliminar_producto.feature:8)
+

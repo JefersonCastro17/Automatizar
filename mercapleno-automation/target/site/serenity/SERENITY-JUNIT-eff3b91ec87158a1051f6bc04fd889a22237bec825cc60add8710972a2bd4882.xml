@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Eliminar Producto del Carrito en Mercapleno" skipped="0" tests="1" time="3.14" timestamp="2026-06-13 06:19:25"><testcase name="Eliminar un producto agregado al carrito"><failure message="&#13;&#10;Expected: &quot;Tu carrito esta vacio&quot;&#13;&#10;     but: was &quot;Tu carrito esta vacio\nExplorar productos&quot;" type="java.lang.AssertionError">&#13;
+Expected: "Tu carrito esta vacio"&#13;
+     but: was "Tu carrito esta vacio\nExplorar productos"</failure><system-err>&#13;
+Expected: "Tu carrito esta vacio"&#13;
+     but: was "Tu carrito esta vacio\nExplorar productos"&#13;
+com.Mercapleno.stepdefinitions.CarritoStepDefinitions.verificarCarritoVacio(CarritoStepDefinitions.java:70)&#13;
+</system-err></testcase></testsuite>

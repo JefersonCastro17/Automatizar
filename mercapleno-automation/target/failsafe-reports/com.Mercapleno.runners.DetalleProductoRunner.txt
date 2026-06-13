@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Mercapleno.runners.DetalleProductoRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.69 s -- in com.Mercapleno.runners.DetalleProductoRunner
