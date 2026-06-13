@@ -1,0 +1,12 @@
+com\login\tasks\CerrarSesion.class
+com\login\tasks\AbrirPagina.class
+com\login\userinterfaces\InventoryPage.class
+com\login\questions\ConfirmacionCompra.class
+com\login\userinterfaces\CheckoutPage.class
+com\login\userinterfaces\LoginPage.class
+com\login\stepdefinitions\LoginStepDefinitions.class
+com\login\questions\ValidarLogin.class
+com\login\runners\LoginRunner.class
+com\login\tasks\RealizarLogin.class
+com\login\tasks\GestionarCarrito.class
+com\login\tasks\RealizarPago.class
