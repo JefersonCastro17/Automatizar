@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.login.runners.LoginRunner
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 33.24 s -- in com.login.runners.LoginRunner
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 200.2 s -- in com.login.runners.LoginRunner
